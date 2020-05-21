@@ -4,3 +4,6 @@
 # Hugo
 resources/
 public/
+misc/publications/
+.DS_Store
+*/.DS_Store

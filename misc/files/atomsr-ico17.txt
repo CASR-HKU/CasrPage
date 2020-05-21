@@ -1,0 +1,1 @@
+We report on a super-resolution scheme for optical time-stretch imaging. It is particularly applicable to ultrafast ﬂow imaging, but suffers from low resolution in spectral-encoding. Our algorithm overcomes this by designing subpixel shifts across scans.

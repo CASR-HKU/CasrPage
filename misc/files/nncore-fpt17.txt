@@ -1,0 +1,22 @@
+Efficient implementation of machine learning applications on FPGAs often
+requires non-linear numerical functions with a non-standard numerical
+precision that is not readily available from vendor provided standard
+libraries.
+While application-specific designs of such functions can result in
+superior numerical accuracy and area efficiency when compared to ad-hoc
+composition using vendor-provided primitives, the effort devoted to this
+challenging task can hardly be portable to other similar applications.
+In this work, we present an open source generator, NnCore, for floating-point
+non-linear operator cores built using fixed-point piecewise polynomial
+segments.
+The proposed framework takes advantage of properties such as oddness/evenness and intercept-at-origin, 
+often found in the numerical functions commonly used in machine learning applications, 
+and applied an improved segmentation algorithm that specifically handles "outlier" segments,
+to reduce the required memory size for storing polynomial coefficients.
+Experimental results show that, at single-precision setting, 
+NnCore generated cores use up to 65\% fewer BRAMs,
+63\% fewer shift-registers, and runs at up to 2.2$\times$ the clock speed, 
+compare with cores generated from a previous generic function generator.
+At half-precision, cores can run around 1.2$\times$ higher clock speed while requiring higher resource usage, 
+or use a comparable number of resource but run at 12\% to 45\% lower clock speed.
+The use of HLS C++ as output format allows core integration into modern high-level workflow such as Xilinx SDAccel.

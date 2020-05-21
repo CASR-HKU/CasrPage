@@ -1,0 +1,19 @@
+---
+title: "A real-time coprime line scan super-resolution system for ultra-fast microscopy"
+authors: [Runbin Shi, Justin Wong, Edmund Lam, Kevin Tsia, Hayden Kwok-Hay So]
+date: 2019-05-06
+doi: "10.1109/TBCAS.2019.2914946"
+publishDate: 2019-05-06
+publication_types: ["2"]
+publication: "IEEE Transactions on Biomedical Circuits and Systems"
+publication_short: "TBioCAS"
+abstract: "
+A fundamental technical challenge for ultra-fast cell microscopy is the tradeoff between imaging throughput and resolution. In addition to throughput, real-time applications such as image-based cell sorting further requires ultra-low imaging latency to facilitate rapid decision making on a single-cell level. Using a novel coprime line scan sampling scheme, a real-time low-latency hardware super-resolution system for ultra-fast time-stretch microscopy is presented. The proposed scheme utilizes analog-to-digital converter with a carefully tuned sampling pattern (shifted sampling grid) to enable super-resolution image reconstruction using line scan input from an optical front-end. A fully pipelined FPGA-based system is built to efficiently handle the real-time high-resolution image reconstruction process with the input subpixel samples while achieving minimal output latency. The proposed super-resolution sampling and reconstruction scheme is parametrizable and is readily applicable to different line scan imaging systems. In our experiments, an imaging latency of 0.29 μs has been achieved based on a pixel-stream throughput of 4.123 giga pixels per second, which translates into imaging throughput of approximately 120000 cells per second.
+"
+tags: []
+featured: true
+url_code: 
+url_poster: 
+url_slides: 
+projects: []
+---
