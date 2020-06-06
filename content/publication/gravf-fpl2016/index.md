@@ -15,5 +15,5 @@ featured: true
 url_code: https://github.com/nakengelhardt/fpgagraphlib/
 url_poster: gravf-fccm2016-poster.pdf
 url_slides: gravf-fpl2016-slides.pdf
-projects: []
+projects: [graph]
 ---

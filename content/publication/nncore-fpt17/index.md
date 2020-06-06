@@ -16,5 +16,5 @@ featured: true
 url_code: https://bitbucket.org/hku-casr/nncore/src/master/
 url_poster: 
 url_slides: 
-projects: []
+projects: [aihardware]
 ---

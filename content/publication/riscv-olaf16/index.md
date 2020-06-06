@@ -16,5 +16,5 @@ featured: true
 url_code: https://github.com/hku-casr/riscv-overlay
 url_poster: 
 url_slides: 
-projects: []
+projects: [overlay]
 ---

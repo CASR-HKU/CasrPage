@@ -12,8 +12,8 @@ The use of FPGAs as compute accelerators has been demonstrated by numerous resea
 "
 tags: []
 featured: true
-url_code: 
+url_code: https://github.com/Liu-Cheng/QuickDough
 url_poster: 
 url_slides: 
-projects: []
+projects: [overlay]
 ---

@@ -15,5 +15,5 @@ featured: true
 url_code: https://github.com/rbshi/elstm
 url_poster: elstm-poster-dac19.pdf
 url_slides: elstm-slides-dac19.pdf
-projects: []
+projects: [aihardware]
 ---

@@ -15,5 +15,5 @@ featured: true
 url_code: 
 url_poster: gravf-fpl2016-poster.pdf
 url_slides: 
-projects: []
+projects: [graph]
 ---

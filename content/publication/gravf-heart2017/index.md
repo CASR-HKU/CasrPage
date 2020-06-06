@@ -15,5 +15,5 @@ featured: true
 url_code: https://github.com/nakengelhardt/fpgagraphlib/
 url_poster: 
 url_slides: gravf-heart2017-slides.pdf
-projects: []
+projects: [graph]
 ---

@@ -3,7 +3,7 @@ title: "FTDL: A tailored FPGA-overlay for deep learning with high scalability"
 authors: [Runbin Shi, Yuhao Ding, Xuechao Wei, He Li, Hang Liu, Hayden Kwok-Hay So, Caiwen Ding]
 date: 2020-07-29
 doi: ""
-publishDate: 2020-04-29
+publishDate: 2020-05-29
 publication_types: ["1"]
 publication: "Proceedings of the 57th Annual Design Automation Conference 2020"
 publication_short: "DAC'20 (to appear)"
@@ -16,5 +16,5 @@ featured: true
 url_code: https://github.com/rbshi/ftdnn
 url_poster: 
 url_slides: 
-projects: []
+projects: [overlay, aihardware]
 ---

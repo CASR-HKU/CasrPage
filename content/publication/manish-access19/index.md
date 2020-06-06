@@ -1,0 +1,19 @@
+---
+title: "PACoGen: A Hardware Posit Arithmetic Core Generator"
+authors: [Manish Kumar Jaiswal, Hayden Kwok-Hay So]
+date: 2019-06-01
+doi: "10.1109/ACCESS.2019.2920936"
+publishDate: 2019-06-01
+publication_types: ["2"]
+publication: "IEEE Access"
+publication_short: ""
+abstract: "
+This paper proposes open-source hardware Posit Arithmetic Core Generator (PACoGen) for the recently developed universal number posit number system, along with a set of pipelined architectures. The posit number system composed of a run-time varying exponent component, which is defined by a composition of varying length “regime-bit” and “exponent-bit” (with a maximum size of ES bits, the exponent size). This in effect also makes the fraction part to vary at run-time in size and position. These run-time variations inherit an interesting hardware design challenge for posit arithmetic architectures. The posit number system, being at an infant stage of its development, possess very limited hardware solutions for its arithmetic architectures. In this view, this paper targets the algorithmic development and generic HDL generators (PACoGen) for basic posit arithmetic. The proposed open source PACoGen currently includes the adder/subtractor, multiplier, and division arithmetic. The PACoGen can provide the Verilog HDL code respective posit arithmetic for any given posit word width (N) and exponent size (ES), as defined under the posit number system. Further, pipelined architectures of 32-bit posit with 6-bit exponent size are also proposed and discussed for addition/subtraction, multiplication, and division arithmetic. The proposed posit arithmetic architectures are demonstrated on the Virtex-7 (xc7vx330t-3ffg1157) FPGA device as well as Nangate 15 nm ASIC platform. The PACoGen would open a gateway for further posit arithmetic hardware exploration and evaluation.
+"
+tags: []
+featured: true
+url_code: 
+url_poster: 
+url_slides: 
+projects: [arithmetic]
+---

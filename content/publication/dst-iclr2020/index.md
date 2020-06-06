@@ -15,5 +15,5 @@ featured: true
 url_code: https://github.com/junjieliu2910/DynamicSaprseTraining
 url_poster: 
 url_slides: 
-projects: []
+projects: [aihardware]
 ---

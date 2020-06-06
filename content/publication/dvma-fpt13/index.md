@@ -1,5 +1,5 @@
 ---
-title: "Direct Virtual Memory Access from FPGA forHigh-Productivity Heterogeneous Computing"
+title: "Direct Virtual Memory Access from FPGA for High-Productivity Heterogeneous Computing"
 authors: [Ho-Cheung Ng, Yuk-Ming Choi, Hayden Kwok-Hay So]
 date: 2013-12-01
 doi: "10.1109/FPT.2013.6718414"
@@ -15,5 +15,5 @@ featured: true
 url_code: 
 url_poster: 
 url_slides: 
-projects: []
+projects: [overlay]
 ---

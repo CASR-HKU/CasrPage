@@ -15,5 +15,5 @@ featured: true
 url_code: 
 url_poster: 
 url_slides: 
-projects: []
+projects: [aihardware]
 ---

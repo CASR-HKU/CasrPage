@@ -15,5 +15,5 @@ featured: true
 url_code: https://github.com/hku-casr/atom-droplet
 url_poster: 
 url_slides: 
-projects: []
+projects: [imghardware]
 ---

@@ -11,10 +11,10 @@ abstract: "
 We report on a super-resolution scheme for optical time-stretch imaging. It is particularly applicable to ultrafast ﬂow imaging, but suffers from low resolution in spectral-encoding. Our algorithm overcomes this by designing subpixel shifts across scans.
 
 "
-tags: [super-resolution, microscopy]
+tags: []
 featured: true
 url_code: 
 url_poster: 
 url_slides: atomsr-oral-ico17.pdf
-projects: []
+projects: [aihardware]
 ---

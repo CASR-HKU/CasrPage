@@ -3,7 +3,7 @@
 
 # Hugo
 resources/
-public/
+public_html/
 misc/publications/
 .DS_Store
 */.DS_Store
