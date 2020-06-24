@@ -45,9 +45,9 @@ The use of FPGAs as compute accelerators has been demonstrated by numerous resea
 
 In this project, we investigate the FPGA overlay, an effective FPGA design abstraction for general computation dataflow and domain-specific scenarios. 
 
-For the general cases, we have developed a rapid FPGA loop accelerator generation framework called [QuickDough](/~casr/publication/quickdough-fpt15/). By utilizing a soft coarse-grained reconfigurable array (SCGRA) overlay built on top of off-the-shelf FPGAs, it compiles a high-level loop to the overlay through rapid operation scheduling first and then generates the FPGA accelerator bitstream through rapid integration of the scheduling result and a pre-built overlay bitstream.
+For the general cases, we have developed a rapid FPGA loop accelerator generation framework called [QuickDough](/publication/quickdough-fpt15/). By utilizing a soft coarse-grained reconfigurable array (SCGRA) overlay built on top of off-the-shelf FPGAs, it compiles a high-level loop to the overlay through rapid operation scheduling first and then generates the FPGA accelerator bitstream through rapid integration of the scheduling result and a pre-built overlay bitstream.
 
-The domain-specific overlay is also popular that provides the specialization for the a package of **parameterized** applications. For example, we present [FTDL](/~casr/publication/ftdl-dac20/), an FPGA tailored deep learning overlay, which is optimized for the timing in FPGA implementation and hardware utilization in real-world cases. 
+The domain-specific overlay is also popular that provides the specialization for the a package of **parameterized** applications. For example, we present [FTDL](/publication/ftdl-dac20/), an FPGA tailored deep learning overlay, which is optimized for the timing in FPGA implementation and hardware utilization in real-world cases. 
 
 {{< figure src="featured.png" title="Demonstration of FPGA overaly framework." numbered="true" lightbox="true" width=60% >}}
 

@@ -9,7 +9,7 @@ title = "CASR-HKU"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://www.eee.hku.hk/~casr/"
+baseurl = "https://casr.eee.hku.hk"
 # relativeURLs=true
 # CanonifyURLs=true
 publishDir = "public_html"
