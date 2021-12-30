@@ -2,7 +2,7 @@
 # Display name
 title: Yuhao Ding
 
-weight: 4
+weight: 2
 
 # Username (this should match the folder name)
 authors:

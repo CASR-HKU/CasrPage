@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.Phil Candidate
+role: M.Phil 
 
 # Organizations/Affiliations
 organizations:
@@ -36,9 +36,9 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 
 
 ---
 
-Junjie LIU is a Mphil student at the University of Hong Kong supervised by Prof. Hayden So. His research focuses on efficient neural network compression algorithms, which aims to reduce the computation and memory overhead in the inference process of deep learning models. Before joining Prof. So's group, he received his B.Eng. degree from City University of Hong Kong.
+Junjie LIU  graduated from The University of Hong Kong as an M.Phil student supervised by Prof. Hayden So. His research focused on efficient neural network compression algorithms, which aims to reduce the computation and memory overhead in the inference process of deep learning models. Before joining Prof. So's group, he received his B.Eng. degree from City University of Hong Kong.

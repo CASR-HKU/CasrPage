@@ -15,9 +15,6 @@ with open('collections.csv') as csv_file:
     except FileExistsError:
       print("ERROR:", abbr, "exists!")
 
-
-
-
     f_index = open(pub_dir+"/index.md", 'w+')
     content_index = []
 
@@ -33,6 +30,7 @@ with open('collections.csv') as csv_file:
 
     # abstract
     content_index.append("abstract: \"")
+    print("item9", item[9])
     with open("files/"+item[9], 'r') as f_abs:
       content_index.append(f_abs.readline())
     content_index.append('\"')
