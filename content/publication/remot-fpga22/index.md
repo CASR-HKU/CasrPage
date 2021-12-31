@@ -15,5 +15,5 @@ featured: true
 url_code: "https://doi.org/10.25442/hku.17284643" 
 url_poster: 
 url_slides: 
-projects: [aihardware]
+projects: [eventcamera]
 ---
