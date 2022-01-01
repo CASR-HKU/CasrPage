@@ -1,7 +1,7 @@
 ---
 title: "REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs"
 authors: [Yizhao Gao, Song Wang, Hayden Kwok-Hay So]
-date: 2021-12-29
+date: 2022-01-01
 doi: "10.1145/3490422.3502365"
 publishDate: 2022-02-29
 publication_types: ["1"]
@@ -12,7 +12,7 @@ In contrast to conventional vision sensors that produce images of the entire fie
 "
 tags: []
 featured: true
-url_code: "https://doi.org/10.25442/hku.17284643" 
+url_code: "https://github.com/CASR-HKU/REMOT-FPGA-22.git" 
 url_poster: 
 url_slides: 
 projects: [eventcamera]
